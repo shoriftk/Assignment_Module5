@@ -1,11 +1,11 @@
 User: Admin
-Email: admin@gmail.com
+Email: admin@email.com
 Password: admin
 
 User: Manager
-Email: shorif@gmail.com
+Email: shorif@email.com
 Password: 1234
 
 User: User
-Email: sojib@gmail.com
+Email: sojib@email.com
 Password: 1234
